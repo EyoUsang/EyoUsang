@@ -1,41 +1,121 @@
+Eyo Joseph
 
-Eyo Joseph | AI Data Annotation & Data Quality Portfolio
+AI Data Annotator | AI Data Quality Specialist | Search & AI Response Evaluator
 
-AI data annotation, evaluation, and dataset quality work.
+I am an AI Data Annotator and Data Quality Specialist with practical experience supporting artificial intelligence and machine learning workflows through data annotation, evaluation, transcription, data collection, and quality assurance.
 
-I am an AI Data Annotator with project experience across OneForma and Appen. My work has included text, image, audio, and video annotation; transcription; data collection; search evaluation; AI response evaluation; and data validation/quality review.
+I have contributed to AI data projects through OneForma and Appen, working across text, image, audio, and video annotation, search evaluation, AI response evaluation, transcription, and data validation.
 
-Professional experience
+My professional approach emphasizes accuracy, consistency, attention to detail, critical thinking, and adherence to task-specific annotation guidelines.
 
-OneForma — Lightspeed Project: March 2026–Present
-Appen — Project Cyrus: March 2026–October 2026
-Lighthouse Project: 2025 (platform and exact dates to be confirmed)
-Matrog Project: 2025 (platform and exact dates to be confirmed)
+Professional Experience
 
-Project descriptions here are intentionally high-level. No client-confidential instructions, proprietary datasets, screenshots, or internal project materials are included.
+1. OneForma – Project Lightspeed
 
-Portfolio projects
+Search Engine Evaluation & AI Response Evaluation
+April 2026 – Present
 
-All examples in this repository are original, synthetic demonstrations created for portfolio purposes. They do not contain client data and are not represented as deliverables from any employer.
+Participating in AI evaluation and search quality assessment workflows designed to improve the relevance, accuracy, and usefulness of AI-powered search and information systems.
 
-Project  Demonstrated skills  
-Text annotation        Classification, label definitions, rationale  
-Image annotation     Object-labeling schema and annotation notes  
-Audio transcription  Verbatim transcription conventions and uncertainty handling  
-Quality review          Validation checks, disagreement handling, quality metrics  
+Key responsibilities:
 
-Skills
+- Evaluating search results against user search intent.
+- Assessing the relevance and usefulness of information.
+- Evaluating AI-generated responses.
+- Assessing response quality, clarity, coherence, and appropriateness.
+- Applying task-specific evaluation guidelines and rating criteria.
+- Conducting research and evidence-based assessments where required.
 
-Text, image, audio, and video annotation
-Transcription and data collection
-Search evaluation and AI response evaluation
-Data validation and annotation quality review
-Following annotation guidelines and documenting ambiguity
+2. Appen – Project Sirus
+
+AI Data Annotation Contributor
+June 2026 – October 2026
+
+Participated in Appen's Project Sirus, contributing to project-based AI data operations and annotation activities.
+
+- Following project-specific task instructions.
+- Applying annotation criteria consistently.
+- Maintaining accuracy and attention to detail.
+- Supporting data quality requirements.
+
+3. OneForma – Project Lighthouse
+
+Text Data Annotation & Labelling
+May 2025–Present
+
+Participated in text annotation workflows supporting AI and natural language processing development.
+
+Key responsibilities:
+
+- Text annotation and categorization.
+- Identifying relevant themes and linguistic attributes.
+- Applying predefined annotation labels.
+- Following detailed annotation guidelines.
+- Reviewing annotations for consistency and accuracy.
+
+Core Skills & Competencies
+
+AI Data Annotation
+
+- Text Annotation
+- Image Annotation
+- Audio Annotation
+- Video Annotation
+- Data Labelling
+- Data Collection
+
+AI Evaluation
+
+- Search Engine Evaluation
+- AI Response Evaluation
+- Search Relevance Assessment
+- Content Evaluation
+- Response Quality Assessment
+
+Data Quality & Processing
+
+- Data Validation
+- Annotation Quality Assurance
+- Transcription
+- Annotation Guideline Compliance
+- Consistency and Accuracy Review
+
+Academic Background
+
+Bachelor's Degree in Civil Engineering
+Federal University of Technology, Owerri (FUTO), Nigeria.
+
+Undergraduate Research Project:
+
+Production of Interlocking Stones Using Recycled Plastic Waste.
+
+Research interests include sustainable construction materials, material reuse, and practical engineering applications.
+
+Portfolio Projects
+
+This repository showcases my professional interests and practical understanding of AI data workflows through original demonstration projects.
+
+- Text Annotation: Classification, labelling, and annotation guidelines.
+- Image Annotation: Object identification and structured labelling examples.
+- Audio Transcription: Transcription conventions and quality review.
+- Data Quality Assessment: Validation, consistency checks, and annotation review.
+
+All portfolio examples are independently created synthetic demonstrations. They do not contain confidential client information or proprietary project materials.
+
+Professional Interests
+
+- Artificial Intelligence and Machine Learning
+- AI Training Data Development
+- Human-in-the-Loop AI
+- Natural Language Processing
+- Multimodal AI Data Annotation
+- AI Model Evaluation
+- Data Quality Assurance
 
 Contact
-Email: eyojosephusang@gmail.com
-Location: Nigeria
 
+- GitHub: https://github.com/EyoUsang
+- Email: eyojosephusang@gmail.com
+- Location: Nigeria
 
-
-
+Committed to supporting the development of more accurate, reliable and human-aligned artificial intelligence systems through quality data annotation and evaluation.
