@@ -33,13 +33,9 @@ Data validation and annotation quality review
 Following annotation guidelines and documenting ambiguity
 
 Contact
-
-LinkedIn: add your profile URL when created
-Email: add a professional contact email
+Email: eyojosephusang@gmail.com
 Location: Nigeria
 
-Important note
 
-This repository is a skills portfolio, not a claim of academic publication or software engineering employment. Examples are synthetic and intended to demonstrate annotation judgment, documentation, and quality-control thinking.
-[GITHUB_PROFILE_ABOUT.md](https://github.com/user-attachments/files/34526669/GITHUB_PROFILE_ABOUT.md)
-[LINKEDIN_PROFILE_DRAFT.md](https://github.com/user-attachments/files/34526670/LINKEDIN_PROFILE_DRAFT.md)[README.md](https://github.com/user-attachments/files/34526671/README.md)
+
+
