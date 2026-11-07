@@ -1,3 +1,4 @@
+
 Eyo Joseph | AI Data Annotation & Data Quality Portfolio
 
 AI data annotation, evaluation, and dataset quality work.
@@ -40,3 +41,5 @@ Location: Nigeria
 Important note
 
 This repository is a skills portfolio, not a claim of academic publication or software engineering employment. Examples are synthetic and intended to demonstrate annotation judgment, documentation, and quality-control thinking.
+[GITHUB_PROFILE_ABOUT.md](https://github.com/user-attachments/files/34526669/GITHUB_PROFILE_ABOUT.md)
+[LINKEDIN_PROFILE_DRAFT.md](https://github.com/user-attachments/files/34526670/LINKEDIN_PROFILE_DRAFT.md)[README.md](https://github.com/user-attachments/files/34526671/README.md)
